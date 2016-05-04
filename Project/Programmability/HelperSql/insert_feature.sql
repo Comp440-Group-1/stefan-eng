@@ -1,3 +1,4 @@
+DELETE FROM Feature
 -- Insert the features
 INSERT INTO Feature ([FeatureDescription]) VALUES ('address verification')
 INSERT INTO Feature ([FeatureDescription]) VALUES ('login module')

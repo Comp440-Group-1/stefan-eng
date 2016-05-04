@@ -1,0 +1,2 @@
+ALTER TABLE DownloadLog DROP CONSTRAINT DownloadLogID;
+ALTER TABLE DownloadLog DROP COLUMN DownloadLogID;
